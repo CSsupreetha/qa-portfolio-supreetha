@@ -34,7 +34,7 @@ This portfolio contains my practical QA work, including test cases, bug reports,
 
 ## 📂 Projects
 
-### 1️⃣ Manual Testing Project — Demoblaze E-Commerce Website
+### 1️ Manual Testing Project — Demoblaze E-Commerce Website
 📍 **Project Type:** Functional + UI Testing  
 📍 **Role:** Individual tester  
 📍 **Objective:** Ensure smooth purchase flow, UI consistency, and bug-free user experience  
@@ -50,7 +50,7 @@ https://github.com/CSsupreetha/Mannual_testing_Ecommerce
 
 ---
 
-### 2️⃣ Automation Testing Project — SauceDemo (Selenium + Python + PyTest + POM) 
+### 2️ Automation Testing Project — SauceDemo (Selenium + Python + PyTest + POM) 
 📍 **Project Type:** Test Automation  
 📍 **Role:** Independent implementation  
 📍 **Objective:** Automate core e-commerce flow to ensure reliability & reusability  
@@ -64,6 +64,26 @@ Key Highlights:
 🔗 Project Link:
 https://github.com/CSsupreetha/saucedemo-automation-testing/tree/main/saucedemo_automation
 
+3️⃣ Automation Testing Project — OrangeHRM (Selenium + Python + PyTest + POM)
+
+📍 Project Type: Test Automation
+📍 Role: Independent Implementation
+📍 Application Tested: OrangeHRM Demo
+
+📍 Objective: Automate login functionality to validate authentication flows
+
+Key Highlights:
+
+Automated login with valid and invalid credentials
+
+Implemented Page Object Model (POM) for maintainable scripts
+
+Executed tests using PyTest framework with structured reports
+
+Used Selenium WebDriver for browser automation and validations
+
+🔗 Project Link:
+https://github.com/CSsupreetha/saucedemo-automation-testing/tree/main/Automation_Testing_ProjectOrangeHRM
 ---
 
 ## 📈 What I Learned
