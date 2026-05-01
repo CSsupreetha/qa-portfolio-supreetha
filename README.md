@@ -87,12 +87,25 @@ https://github.com/CSsupreetha/saucedemo-automation-testing/tree/main/Automation
 
 ---
 
+### 4️⃣ SQL 
+📍 Project Type: Database Querying & Data Validation
+📍 Objective: Demonstrate SQL skills for QA data validation
+
+Key Highlights:
+- Written queries using JOINs, Subqueries, Aggregations
+- Window Functions — RANK, DENSE_RANK
+- CASE statements for conditional logic
+- Data validation and duplicate checking scenarios
+
+🔗 GitHub: https://github.com/CSsupreetha/SQL_QA.git
+
 ## 📈 What I Learned
 
 - How to design and execute test cases professionally  
 - How to document and report bugs clearly using tools  
 - Test automation best practices using POM  
-- The importance of user-centric and negative testing  
+- The importance of user-centric and negative testing
+- Data validation using SQL quesries  
 
 ---
 
