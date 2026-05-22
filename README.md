@@ -62,7 +62,7 @@ Key Highlights:
 - Structured test execution using PyTest  
 
 🔗 Project Link:
-https://github.com/CSsupreetha/saucedemo-automation-testing/tree/main/saucedemo_automation
+https://github.com/CSsupreetha/saucedemo-automation-testing.git
 
 3️⃣ Automation Testing Project — OrangeHRM (Selenium + Python + PyTest + POM)
 
