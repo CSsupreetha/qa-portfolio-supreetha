@@ -83,7 +83,7 @@ Executed tests using PyTest framework with structured reports
 Used Selenium WebDriver for browser automation and validations
 
 🔗 Project Link:
-https://github.com/CSsupreetha/saucedemo-automation-testing/tree/main/Automation_Testing_ProjectOrangeHRM
+https://github.com/CSsupreetha/Automation_Testing_ProjectOrangeHRM.git
 
 ---
 
